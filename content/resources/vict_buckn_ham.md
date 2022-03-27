@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: vict_buckn_ham.jpg
 uid: 84e82b03-5618-1b94-d7c8-ea37f433ac16

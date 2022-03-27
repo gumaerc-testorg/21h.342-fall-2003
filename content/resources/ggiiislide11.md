@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: ggiiislide11.jpg
 uid: 9f40ba67-62e7-57f6-6883-1cb485479e99

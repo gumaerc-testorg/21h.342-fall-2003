@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46ca0f82-73f2-e8ca-bd6a-d6587fbc261b
 resourcetype: Document
 title: asgmt6.pdf
 uid: 7afed2db-4b05-3d39-1b9c-b565ed083c2a

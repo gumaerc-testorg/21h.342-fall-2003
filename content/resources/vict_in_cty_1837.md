@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 822a1ccf-7666-06de-3f90-10af5ffd1b72
 resourcetype: Image
 title: vict_in_cty_1837.jpg
 uid: ef1c2335-059a-78fd-d309-84f1917d81ab
