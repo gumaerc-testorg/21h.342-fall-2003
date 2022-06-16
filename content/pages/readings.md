@@ -1,794 +1,583 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 155323f9-72ba-ba65-f45d-5e43075d9053
 ---
-
 The following texts are required for the course. Also see the readings assigned for each class session and the bibliography of additional readings on topics covered in the course.
 
-Required Texts and Class Session Readings
------------------------------------------
+## Required Texts and Class Session Readings
 
-Griffiths, Ralph Alan, and John Ashton Cannon. _The Oxford Illustrated History of the British Monarchy._ Oxford: Oxford University Press, 2001. (referred to as "G and C" in table below)
+Griffiths, Ralph Alan, and John Ashton Cannon. *The Oxford Illustrated History of the British Monarchy.* Oxford: Oxford University Press, 2001. (referred to as "G and C" in table below)
 
-Strachey, Lytton. _Queen Victoria._ London: Bloomsbury Publishing Plc., 1987.
+Strachey, Lytton. *Queen Victoria.* London: Bloomsbury Publishing Plc., 1987.
 
-Townsend, Sue. _The Queen and I._ New York: Soho Press Inc., 1994.
+Townsend, Sue. *The Queen and I.* New York: Soho Press Inc., 1994.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 1: Background**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tudors and Stuarts
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Royal Pageantry and Royal Politics
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
-Oakland, John. "The Monarchy" in _British Civilization_. London, New York: Routledge, 1996.
+{{< tdclose >}}{{< tdopen >}}
 
-Cannadine. _The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition'_, _c.1820-1977._ Cambridge: Cambridge University Press, 1983.
+Oakland, John. "The Monarchy" in *British Civilization*. London, New York: Routledge, 1996.
 
+Cannadine. *The Context, Performance and Meaning of Ritual: The British Monarchy and the 'Invention of Tradition'*, *c.1820-1977.* Cambridge: Cambridge University Press, 1983.
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 2: German Kings of England**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 George I and George II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 459-484.
 
-Thackeray, William M. _The First Four Georges._ New York: Book League of America, 1937. (selection)
+Thackeray, William M. *The First Four Georges.* New York: Book League of America, 1937. (selection)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 3: The Father of His Country**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 George III
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-Movie: _The Madness of King George_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Movie: *The Madness of King George*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 484-529.
 
-Burney, Fanny. _The Diary of Fanny Burney._ New York: E.P. Dutton, 1940. (selection)
+Burney, Fanny. *The Diary of Fanny Burney.* New York: E.P. Dutton, 1940. (selection)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 4: Style and Scandal**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Prince Regent and George IV
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 530-545.
 
-Clark, Anna. "Queen Caroline and the Sexual Politics of Popular Culture." in _Representations._ Berkeley: University of California Press, 1990.
+Clark, Anna. "Queen Caroline and the Sexual Politics of Popular Culture." in *Representations.* Berkeley: University of California Press, 1990.
 
-Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." in _The Journal of Modern History._ September, 1992, pp. 417-466
+Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." in *The Journal of Modern History.* September, 1992, pp. 417-466
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-Video: _A Royal Scandal_
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Video: *A Royal Scandal*
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 5: The Mother of Her Country**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Transition: William IV to Victoria
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Young Queen
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Victoria and Albert
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 G and C, pp. 545-578.
 
-Strachey. _Queen Victoria._ Chapters 1-6.
+Strachey. *Queen Victoria.* Chapters 1-6.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Empress of India
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
-Bagehot. "The Monarchy." in _The English Constitution._ Cambridge: Cambridge University Press, 2001.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< tdopen >}}
+Bagehot. "The Monarchy." in *The English Constitution.* Cambridge: Cambridge University Press, 2001.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 6: The Shadow of War**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Edward VII and George V
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 579-600.
 
-Cannadine, David. "The Jubilee Program" in _King George V_. New York: W.W. Norton & Co., 1991.
+Cannadine, David. "The Jubilee Program" in *King George V*. New York: W.W. Norton & Co., 1991.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 7: Constitutional Crises and Recovery**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 The Abdication of Edward VIII
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 601-615.
 
-Windsor, Edward. _A King's Story - The Memoirs of the Duke of Windsor._ London: Prion Books, 1998. (selection)
+Windsor, Edward. *A King's Story - The Memoirs of the Duke of Windsor.* London: Prion Books, 1998. (selection)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 George VI: Their Finest Hour
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit 8: The Monarchy in Modern Britain**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Elizabeth II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+
 G and C, pp. 615-636.
 
-Townsend. _The Queen and I._
+Townsend. *The Queen and I.*
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## {{< anchor "Bibliography" >}}{{< /anchor >}}General Background
 
-{{< tableclose >}}
+Ashley, Michael. *British Kings & Queens: The Complete Biographical Encyclopedia of the Kings & Queens of Great Britain.* New York: Barnes & Noble Books, 2000, 1998.
 
-{{< anchor "Bibliography" >}}{{< /anchor >}}General Background
---------------------------------------------------------------
+Clayton, Tim, and Phil Craig. *Diana: Story of a Princess.* London: Coronet Books, Hodder & Stoughton, 2002, 2001.
 
-Ashley, Michael. _British Kings & Queens: The Complete Biographical Encyclopedia of the Kings & Queens of Great Britain._ New York: Barnes & Noble Books, 2000, 1998.
+Coles, Norman A. *1939 - John Ashton's Case for James II as Rightful King of England: Rebellion or Revolution.* Lewiston, N.Y.: Edwin Mellen Press, 1998.
 
-Clayton, Tim, and Phil Craig. _Diana: Story of a Princess._ London: Coronet Books, Hodder & Stoughton, 2002, 2001.
+Douglas-Home, Charles, and Kelly, Saul. 1937. *Dignified & Efficient: the British Monarchy in the Twentieth Century.* Brinkworth, Wilts: Claridge Press, 2000.
 
-Coles, Norman A. _1939 - John Ashton's Case for James II as Rightful King of England: Rebellion or Revolution._ Lewiston, N.Y.: Edwin Mellen Press, 1998.
+Dunn, Kate, and Graham Holloway. *Majesty.* United States: Newbridge Communications, 1996, 1993.
 
-Douglas-Home, Charles, and Kelly, Saul. 1937. _Dignified & Efficient: the British Monarchy in the Twentieth Century._ Brinkworth, Wilts: Claridge Press, 2000.
+Hardie, Frank. *The Political Influence of the British* *Monarchy, 1868 - 1952*. London: Batsford, 1970.
 
-Dunn, Kate, and Graham Holloway. _Majesty._ United States: Newbridge Communications, 1996, 1993.
+Hayden, Ilse. *Symbol and Privilege: the Ritual Context of British Royalty.* Tucson: University of Arizona Press, 1987.
 
-Hardie, Frank. _The Political Influence of the British_ _Monarchy, 1868 - 1952_. London: Batsford, 1970.
+Hitchens, Peter. *The Abolition of Britain: From Winston Churchill to Princess Diana.* San Francisco: Encounter Books, 2002, 1999.
 
-Hayden, Ilse. _Symbol and Privilege: the Ritual Context of British Royalty._ Tucson: University of Arizona Press, 1987.
+Jones, Bill. *Political Issues in Britain Today.* Manchester: Manchester University Press, 1999.
 
-Hitchens, Peter. _The Abolition of Britain: From Winston Churchill to Princess Diana._ San Francisco: Encounter Books, 2002, 1999.
+Lacey, Andrew. *1960 -* *The Cult of King Charles the Martyr.* Woodbridge, Suffolk, Rochester, NY: Boydell Press, 2003.
 
-Jones, Bill. _Political Issues in Britain Today._ Manchester: Manchester University Press, 1999.
+Marshall, Rosalind Kay. *Henrietta Maria, the Intrepid Queen.* Owings Mills, Md.: Stemmer House Publishers, 1991.
 
-Lacey, Andrew. _1960 -_ _The Cult of King Charles the Martyr._ Woodbridge, Suffolk, Rochester, NY: Boydell Press, 2003.
+Pearson, John. *The Selling of the Royal Family: The Mystique of the British Monarchy.* New York: Simon and Schuster, 1986.
 
-Marshall, Rosalind Kay. _Henrietta Maria, the Intrepid Queen._ Owings Mills, Md.: Stemmer House Publishers, 1991.
+Pearsall, Ronald. *Kings & Queens: A History of British Monarchy.* New York: Todtri Productions, 1996.
 
-Pearson, John. _The Selling of the Royal Family: The Mystique of the British Monarchy._ New York: Simon and Schuster, 1986.
+Rapport, Nigel. *British Subjects: An Anthropology of Britain.* Oxford. New York: Berg, 2002.
 
-Pearsall, Ronald. _Kings & Queens: A History of British Monarchy._ New York: Todtri Productions, 1996.
+Russell, Conrad. *The Fall of the British Monarchies, 1637-1642.* Oxford, New York: Clarendon Press, Oxford University Press, 1991.
 
-Rapport, Nigel. _British Subjects: An Anthropology of Britain._ Oxford_._ New York: Berg, 2002.
+Taylor, Antony. *'Down with the Crown': British Anti-monarchism and Debates about Royalty Since 1790.* London: Reaktion Books, 1999.
 
-Russell, Conrad. _The Fall of the British Monarchies, 1637-1642._ Oxford, New York: Clarendon Press, Oxford University Press, 1991.
+Taylor, John A. *1942 -* *British Monarchy, English Church Establishment, and Civil Liberty.* Westport, Conn.: Greenwood Press, 1996.
 
-Taylor, Antony. _'Down with the Crown': British Anti-monarchism and Debates about Royalty Since 1790._ London: Reaktion Books, 1999.
+*The Times Kings and Queens of the British Isles*. London: Times, 2002.
 
-Taylor, John A. _1942 -_ _British Monarchy, English Church Establishment, and Civil Liberty._ Westport, Conn.: Greenwood Press, 1996.
+Tomlinson, Richard. *1958 -* *Divine Right: The Inglorious Survival of British Royalty.* Boston: Little, Brown and Co., 1995, 1994.
 
-_The Times Kings and Queens of the British Isles_. London: Times, 2002.
+Smith, Robert, and John S. Moore. *The Monarchy: Fifteen Hundred Years of British Tradition.* London: Published by Smith's Peerage Ltd. for the Institute for Constitutional Research, 1998.
 
-Tomlinson, Richard. _1958 -_ _Divine Right: The Inglorious Survival of British Royalty._ Boston: Little, Brown and Co., 1995, 1994.
+Smith, David L. *Constitutional Royalism and the Search for Settlement, c. 1640 1649.* Cambridge: Cambridge University Press, 2002, 1994.
 
-Smith, Robert, and John S. Moore. _The Monarchy: Fifteen Hundred Years of British Tradition._ London: Published by Smith's Peerage Ltd. for the Institute for Constitutional Research, 1998.
+Van der Kiste, John. *Crowns in a Changing World: The British and European Monarchies, 1901-36.* Stroud, Gloucestershire, Dover, N.H.: Alan Sutton, 1993.
 
-Smith, David L. _Constitutional Royalism and the Search for Settlement, c. 1640 1649._ Cambridge: Cambridge University Press, 2002, 1994.
+## George I and George II
 
-Van der Kiste, John. _Crowns in a Changing World: The British and European Monarchies, 1901-36._ Stroud, Gloucestershire, Dover, N.H.: Alan Sutton, 1993.
+Walpole, Horace. *Memoirs of King George II, 3 vols*. New Haven: Yale University Press, 1985.
 
-George I and George II
-----------------------
+Van der Kiste, John. *King George II and Queen Caroline*. Stroud: Sutton Pub., 1997.
 
-Walpole, Horace. _Memoirs of King George II, 3 vols_. New Haven: Yale University Press, 1985.
+Hatton, Ragnhild Marie. *George I, Elector and King*. Cambridge: Harvard University Press, 1978.
 
-Van der Kiste, John. _King George II and Queen Caroline_. Stroud: Sutton Pub., 1997.
+Dann, Uriel. *Hanover and Great Britain, 1740-1760: Diplomacy and Survival*. Irvington: Leicester University Press, 1991.
 
-Hatton, Ragnhild Marie. _George I, Elector and King_. Cambridge: Harvard University Press, 1978.
+## George III
 
-Dann, Uriel. _Hanover and Great Britain, 1740-1760: Diplomacy and Survival_. Irvington: Leicester University Press, 1991.
+Aspinall, A., ed. *The Later Correspondence of George III.* 5 vols. London: Cambridge: University Press, 1962.
 
-George III
-----------
+Adoluphus John, Esq. *History of England.* 7 vols. London: John Lee, 1841.
 
-Aspinall, A., ed. _The Later Correspondence of George III._ 5 vols. London: Cambridge: University Press, 1962.
+Ayling, Stanley. *George the Third Collins.* London: 1972.
 
-Adoluphus John, Esq. _History of England._ 7 vols. London: John Lee, 1841.
+Barnes, Donald Grovesfor. *George III and William Pitt*. Stanford University Press, Stanford University, 1939.
 
-Ayling, Stanley. _George the Third Collins._ London: 1972.
+Boustead, Guy. *The Lone Monarch. John Lane.* London: The Bodley Head, 1940.
 
-Barnes, Donald Grovesfor. _George III and William Pitt_. Stanford University Press, Stanford University, 1939.
+Brooke, John. *King George III*. London: Constable, 1972.
 
-Boustead, Guy. _The Lone Monarch. John Lane._ London: The Bodley Head, 1940.
+Butterfield, Herbert. *King George III & the Historians*. London: Collins, 1957.
 
-Brooke, John. _King George III_. London: Constable, 1972.
+Butterfield, H. *George III, Lord North, and the People*. London: G. Bell and Sons, Ltd., 1949.
 
-Butterfield, Herbert. _King George III & the Historians_. London: Collins, 1957.
+Clarke, John. *Life and Times of George III.* London: Weidenfeld and Nicolson, 1972.
 
-Butterfield, H. _George III, Lord North, and the People_. London: G. Bell and Sons, Ltd., 1949.
+Davies, J. G. Griffith. *George the Third*. London: Ivor Nicholson and Watson, 1936.
 
-Clarke, John. _Life and Times of George III._ London: Weidenfeld and Nicolson, 1972.
+Davies, A. Mervyn. *George III and the Constitution*. Humphry Milford: Oxford University Press, 1921.
 
-Davies, J. G. Griffith. _George the Third_. London: Ivor Nicholson and Watson, 1936.
+Derry, John W. *The Regencey Crisis and the Whigs*. Cambridge: Cambridge University Press, Cambridge, 1963.
 
-Davies, A. Mervyn. _George III and the Constitution_. Humphry Milford: Oxford University Press, 1921.
+Donne, W. Bodham. *Correspondence of George III with Lord North*. 2 vols. London: John Murray, 1867.
 
-Derry, John W. _The Regencey Crisis and the Whigs_. Cambridge: Cambridge University Press, Cambridge, 1963.
+Dobr'ee, Bonamy., ed. *The Letters of King George III.* London: Lassell and Company Ltd., 1935.
 
-Donne, W. Bodham. _Correspondence of George III with Lord North_. 2 vols. London: John Murray, 1867.
+Fitzgerald, Percy. *The Family of George III.* 2 vols. London: Tinsley Brothers, 1882.
 
-Dobr'ee, Bonamy., ed. _The Letters of King George III._ London: Lassell and Company Ltd., 1935.
+Fortescue, Sir John., ed. *Correspondence of King George the Third.* London: McMillan & Co. Ltd., 1927.
 
-Fitzgerald, Percy. _The Family of George III._ 2 vols. London: Tinsley Brothers, 1882.
+Hibbert, Christopher, 1924-; Simon Prebble. *George III a Personal History.* Prince Frederick, Md.: Recorded Books, 2000.
 
-Fortescue, Sir John., ed. _Correspondence of King George the Third._ London: McMillan & Co. Ltd., 1927.
+Guttmacher, Manfred S. *America's Last King.* New York: Charles Scribner's Sons, 1941.
 
-Hibbert, Christopher, 1924-; Simon Prebble. _George III a Personal History._ Prince Frederick, Md.: Recorded Books, 2000.
+James, Robert Rhodes. *1933 -* *A Spirit Undaunted: The Political Role of George VI*. London: Abacus, 1999, 1998.
 
-Guttmacher, Manfred S. _America's Last King._ New York: Charles Scribner's Sons, 1941.
+Jeffreys, Nathaniel. *Conduct of the Prince of Wales*. Nathaniel Jeffreys: London.
 
-James, Robert Rhodes. _1933 -_ _A Spirit Undaunted: The Political Role of George VI_. London: Abacus, 1999, 1998.
+Jesse, John Heneage. *Memoirs of King George the Third.* DeLuxe Edition. 5 vols. Boston: Francis A. Niccolls & Co., 1901.
 
-Jeffreys, Nathaniel. _Conduct of the Prince of Wales_. Nathaniel Jeffreys: London.
+Iremonger, Lucille. *Love and the Princess*. New York: Thomas Y. Crowell Company, 1958.
 
-Jesse, John Heneage. _Memoirs of King George the Third._ DeLuxe Edition. 5 vols. Boston: Francis A. Niccolls & Co., 1901.
+*George III: His Court and Family.* 2 vols. London: Henry Colburn, 1824.
 
-Iremonger, Lucille. _Love and the Princess_. New York: Thomas Y. Crowell Company, 1958.
+Lloyd, Alan. *The King Who Lost America*. New York: Doubleday & Company, Inc., 1971.
 
-_George III: His Court and Family._ 2 vols. London: Henry Colburn, 1824.
+Long, J. C. *George III*. Boston: Little, Brow and Company, 1960.
 
-Lloyd, Alan. _The King Who Lost America_. New York: Doubleday & Company, Inc., 1971.
+McKelvey, James Lee. *George III and Lord Bute*. Durham: Duke University Press, 1973.
 
-Long, J. C. _George III_. Boston: Little, Brow and Company, 1960.
+Macalpine, Ida, and Richard Hunter. *George III*. London: Penguin Press, 1969.
 
-McKelvey, James Lee. _George III and Lord Bute_. Durham: Duke University Press, 1973.
+Melville, Lewis. *Farmer George.* 2 vols. London: Sir Isaac Pitman and Sons, Ltd., 1907.
 
-Macalpine, Ida, and Richard Hunter. _George III_. London: Penguin Press, 1969.
+Mumby, Frank Arthur. *George III and the American Revolution*. London: Constable & Company Ltd., 1924.
 
-Melville, Lewis. _Farmer George._ 2 vols. London: Sir Isaac Pitman and Sons, Ltd., 1907.
+Papendiek. *Court & Private Life in the Time of Queen Charlotte*. 2 vols. London: Richard Bentley & Son, 1887.
 
-Mumby, Frank Arthur. _George III and the American Revolution_. London: Constable & Company Ltd., 1924.
+Pares, Richard. *King George III & The Politicians*. Oxford: Clarendon Press, 1953.
 
-Papendiek. _Court & Private Life in the Time of Queen Charlotte_. 2 vols. London: Richard Bentley & Son, 1887.
+Sedgwick, Romney, ed. *Letters from George III toward Bute*. London: Macmillan and Co. Ltd., 1939.
 
-Pares, Richard. _King George III & The Politicians_. Oxford: Clarendon Press, 1953.
+Stuart, Dorothy Margaret. *The Daughters of George III*. London: Macmillan & Co. Ltd., 1939.
 
-Sedgwick, Romney, ed. _Letters from George III toward Bute_. London: Macmillan and Co. Ltd., 1939.
+Trench, Charles Chenevix. *The Royal Malady.* New York: Harcourt, Brace and World, Inc., 1964.
 
-Stuart, Dorothy Margaret. _The Daughters of George III_. London: Macmillan & Co. Ltd., 1939.
+Vulliamy, C. E. *Royal George*. London: Jonathan Cape, 1937.
 
-Trench, Charles Chenevix. _The Royal Malady._ New York: Harcourt, Brace and World, Inc., 1964.
+Walpole, Horace. *Memoirs of the Reign of King George the Third.* London: Richard Bentley, 1845.
 
-Vulliamy, C. E. _Royal George_. London: Jonathan Cape, 1937.
+Walkins, John. *Memoirs of Queen Charlotte Henry Colburn.* London: 1819.
 
-Walpole, Horace. _Memoirs of the Reign of King George the Third._ London: Richard Bentley, 1845.
+Watson, J. Steven. *The Reign of George III.* Oxford: Clarendon Press, 1960.
 
-Walkins, John. _Memoirs of Queen Charlotte Henry Colburn._ London: 1819.
+## King George IV and Caroline
 
-Watson, J. Steven. _The Reign of George III._ Oxford: Clarendon Press, 1960.
+Aspinall, A., ed. *Correspondonce of George Prince of Wales.* 8 vols. London: Cassel, 1963.
 
-King George IV and Caroline
----------------------------
+Banvard, John. *Life of George IV*. New York: Literary and Art Publishing Co., 1880.
 
-Aspinall, A., ed. _Correspondonce of George Prince of Wales._ 8 vols. London: Cassel, 1963.
+Bowman, William Dodgson. *The Divorce Case of Queen Caroline*. London: George Routledge & Sons, Ltd., 1930.
 
-Banvard, John. _Life of George IV_. New York: Literary and Art Publishing Co., 1880.
+Buckingham, Duke of. *Buckingham's Court of George IV.* 2 vols. London: Hurst and Blackett, 1859.
 
-Bowman, William Dodgson. _The Divorce Case of Queen Caroline_. London: George Routledge & Sons, Ltd., 1930.
+———. *Buckingham's Court of the Regency.* 2 vols. London: Hurst and Blackett, Publishers, 1856.
 
-Buckingham, Duke of. _Buckingham's Court of George IV._ 2 vols. London: Hurst and Blackett, 1859.
+Bury, Lady Charlotte Campell. *Diary of the Times of George IV.* 4 vols. London: Henry Colburn, 1838.
 
-———. _Buckingham's Court of the Regency._ 2 vols. London: Hurst and Blackett, Publishers, 1856.
+Clerici, Graziano Paolo. *A Queen of Indiscretions*. Translated by Frederic Chapman. London: John Lane the Bodley Head.
 
-Bury, Lady Charlotte Campell. _Diary of the Times of George IV._ 4 vols. London: Henry Colburn, 1838.
+Compiled by Clerke, John Esq. *Life of Caroline*. London: Mackenzie and Dent.
 
-Clerici, Graziano Paolo. _A Queen of Indiscretions_. Translated by Frederic Chapman. London: John Lane the Bodley Head.
+Cobbett, William. *King George IV.* 2 vols. London: Mills, Jowett, and Mills, 1830.
 
-Compiled by Clerke, John Esq. _Life of Caroline_. London: Mackenzie and Dent.
+Coxe, Howard. *The Stranger in the House*. London: Chatto & Windus, 1939.
 
-Cobbett, William. _King George IV._ 2 vols. London: Mills, Jowett, and Mills, 1830.
+Creston, Dormer. *The Regent and his Daughter*. London: Thornton Butterworth, Ltd., 1932.
 
-Coxe, Howard. _The Stranger in the House_. London: Chatto & Windus, 1939.
+Croly, Rev. George. *George IV*. New York: J. & J. Harper, 1831.
 
-Creston, Dormer. _The Regent and his Daughter_. London: Thornton Butterworth, Ltd., 1932.
+Fairburn, John. *The Trial of Caroline, Queen of England (Trial of the Queen).* 3 vols. London: 1820.
 
-Croly, Rev. George. _George IV_. New York: J. & J. Harper, 1831.
+Fitzgerald, Percy. *Life of George the Fourth.* New York: Harper & Brothers, 1881.
 
-Fairburn, John. _The Trial of Caroline, Queen of England (Trial of the Queen)._ 3 vols. London: 1820.
+Fulford, Roger. *George The Fourth*. London: Duckworth, 1935.
 
-Fitzgerald, Percy. _Life of George the Fourth._ New York: Harper & Brothers, 1881.
+———. *The Trial of Queen Caroline*. London: B. T. Batsfor Ltd., 1967.
 
-Fulford, Roger. _George The Fourth_. London: Duckworth, 1935.
+Galt, John Esq., ed. *Times of George IV.* Philadelphia: Lea and Blanchard, 1839.
 
-———. _The Trial of Queen Caroline_. London: B. T. Batsfor Ltd., 1967.
+Sams, William. *George IV and Caroline.* London: Contemporary Pamphlets., 1821.
 
-Galt, John Esq., ed. _Times of George IV._ Philadelphia: Lea and Blanchard, 1839.
+Gleave J. *Trial of Caroline.* 2 vols. Manchester: 1821.
 
-Sams, William. _George IV and Caroline._ London: Contemporary Pamphlets., 1821.
+Hibbert, Christopher. *George IV: Prince of Wales.* 2 vols. London: Longman Group Limited, 1972.
 
-Gleave J. _Trial of Caroline._ 2 vols. Manchester: 1821.
+Huish, Robert Esq. *Coronation of George IV*. London: J. Robinson Company Albion Press, 1821
 
-Hibbert, Christopher. _George IV: Prince of Wales._ 2 vols. London: Longman Group Limited, 1972.
+———. *Memoirs of Caroline.* 2 vols. London: Thomas Kelly, 1820.
 
-Huish, Robert Esq. _Coronation of George IV_. London: J. Robinson Company Albion Press, 1821
+Langdale, Charles. *The Mistress of a King*. Philadelphia: The Carter Publishing Company, 1892.
 
-———. _Memoirs of Caroline._ 2 vols. London: Thomas Kelly, 1820.
+Leslie, Anita. *Mrs. Fitzherbert*. London: Hutchinson & Co. Ltd., 1960.
 
-Langdale, Charles. _The Mistress of a King_. Philadelphia: The Carter Publishing Company, 1892.
+Leslie, Shane. *George the Fourth*. London: Bouverie House, 1926.
 
-Leslie, Anita. _Mrs. Fitzherbert_. London: Hutchinson & Co. Ltd., 1960.
+———. *Mrs. Fitzherbert*. London: Burns Oates, 1939.
 
-Leslie, Shane. _George the Fourth_. London: Bouverie House, 1926.
+Liverpool, Lord Russel of. *Caroline: The Unhappy Queen*. London: Robert Hale, 1967.
 
-———. _Mrs. Fitzherbert_. London: Burns Oates, 1939.
+Melville, Louis. *An Injured Queen: Caroline of Brunswick.* London: Hutchinson & Co., 1912.
 
-Liverpool, Lord Russel of. _Caroline: The Unhappy Queen_. London: Robert Hale, 1967.
+Morris, Marilyn. 1957 - *The British Monarchy and the French Revolution.* New Haven: Yale University Press, 1998.
 
-Melville, Louis. _An Injured Queen: Caroline of Brunswick._ London: Hutchinson & Co., 1912.
+Morshead, Sir Owen. *George IV and Royal Lodge*. Brighton: The Regency Society of Brighton & Hove, 1965.
 
-Morris, Marilyn. 1957 - _The British Monarchy and the French Revolution._ New Haven: Yale University Press, 1998.
+Nightingale, J. *Last Days of Caroline*. London: J. Robin & Co. Albion Press, 1822.
 
-Morshead, Sir Owen. _George IV and Royal Lodge_. Brighton: The Regency Society of Brighton & Hove, 1965.
+———. *Memoirs of Caroline, Queen of Great Britain*. 2 vols. J. London: Robins & Co. Albion Press, 1820.
 
-Nightingale, J. _Last Days of Caroline_. London: J. Robin & Co. Albion Press, 1822.
+———. *Trial of Queen Caroline.* 3 vols. J. London: Robins & Co. Albion Press, 1820.
 
-———. _Memoirs of Caroline, Queen of Great Britain_. 2 vols. J. London: Robins & Co. Albion Press, 1820.
+Parry, Sir Edward. *Queen Caroline.* New York: Charles Schribner's Sons, 1930.
 
-———. _Trial of Queen Caroline._ 3 vols. J. London: Robins & Co. Albion Press, 1820.
+Perceval, Spencer. *An Inquiry into the Conduct of the Prince of Wales*. Lenton: John Fairburn, 1820.
 
-Parry, Sir Edward. _Queen Caroline._ New York: Charles Schribner's Sons, 1930.
+Priestly, J. B. *The Prince of Pleasure and His Regency 1811-20.* New York and Evanston: Harper & Row, 1969.
 
-Perceval, Spencer. _An Inquiry into the Conduct of the Prince of Wales_. Lenton: John Fairburn, 1820.
+Queen Caroline. *Royal Wanderer*. London: H. Rowe, 1823.
 
-Priestly, J. B. _The Prince of Pleasure and His Regency 1811-20._ New York and Evanston: Harper & Row, 1969.
+Richardson, Joanna. *George IV: A Portrait*. London: Sidgwick & Jackson, 1966.
 
-Queen Caroline. _Royal Wanderer_. London: H. Rowe, 1823.
+———. *The Disastrous Marriage*. London: Jonathan Capp, 1960.
 
-Richardson, Joanna. _George IV: A Portrait_. London: Sidgwick & Jackson, 1966.
+Sergeant, Philip W. George. *Prince and Regent*. London: Hutchinson & Co.
 
-———. _The Disastrous Marriage_. London: Jonathan Capp, 1960.
+Collected by Smith, Sir David William. *Coronation*. 2 vols.
 
-Sergeant, Philip W. George. _Prince and Regent_. London: Hutchinson & Co.
+T. Kaygill. *Trial of Queen Caroline*. London: 1820.
 
-Collected by Smith, Sir David William. _Coronation_. 2 vols.
+Thompson, Grace E. *The Prince of Scandal*. New York: Harper & Brothers, 1931.
 
-T. Kaygill. _Trial of Queen Caroline_. London: 1820.
+Wilkins, W. H. *Mrs. Fitzherbert and George Ivu. Longmans.* London: Green and Cor, 1905.
 
-Thompson, Grace E. _The Prince of Scandal_. New York: Harper & Brothers, 1931.
+Wilks, John, Jr. *Memoirs of Queen Caroline.* 2 vols. London: Sherwood, Neely, and Jones, 1822.
 
-Wilkins, W. H. _Mrs. Fitzherbert and George Ivu. Longmans._ London: Green and Cor, 1905.
+## Victoria and Albert
 
-Wilks, John, Jr. _Memoirs of Queen Caroline._ 2 vols. London: Sherwood, Neely, and Jones, 1822.
+Clark, Ronald William. *Balmoral, Queen Victoria's Highland Home*. London: Thames and Hudson, ©1981.
 
-Victoria and Albert
--------------------
+Florance, Arnold. *Queen Victoria at Osborne*. Newport: Arnold Florance, 1977.
 
-Clark, Ronald William. _Balmoral, Queen Victoria's Highland Home_. London: Thames and Hudson, ©1981.
+Graham, Fisher and Heather. Bertie and Alix. *Anatomy of a Royal Marriage*. London: R. Hale, 1954.
 
-Florance, Arnold. _Queen Victoria at Osborne_. Newport: Arnold Florance, 1977.
+Kerr, John. *Queen Victoria's Scottish Diaries: Her Day Dreams*. Lochar Pub., 1992.
 
-Graham, Fisher and Heather. Bertie and Alix. _Anatomy of a Royal Marriage_. London: R. Hale, 1954.
+Kuhn, William M. *Democratic Royalism: The Transformation of the British Monarchy, 1861 - 1914.* New York: St. Martin's Press, 1996.
 
-Kerr, John. _Queen Victoria's Scottish Diaries: Her Day Dreams_. Lochar Pub., 1992.
+Matson, John A. *Dear Osborne: Queen Victoria's Family Life in the Isle of Wight.* London: H. Hamilton, ©1978.
 
-Kuhn, William M. _Democratic Royalism: The Transformation of the British Monarchy, 1861 - 1914._ New York: St. Martin's Press, 1996.
+Stead, Michael J. *Queen Victoria's Scotland*. London: Cassell, 1992.
 
-Matson, John A. _Dear Osborne: Queen Victoria's Family Life in the Isle of Wight._ London: H. Hamilton, ©1978.
+York, Sarah Mountbatten - Windsor. *Duchess of. Victoria and Albert: Life at Osborne House.* London: Weidenfield & Nicolson, 1991.
 
-Stead, Michael J. _Queen Victoria's Scotland_. London: Cassell, 1992.
+Williams, Richard. *1963 - The Contentious Crown: Public Discussion of the British Monarchy in the Reign of Queen Victoria.* Aldershot, England. Brookfield, Vt.: Ashgate, 1997.
 
-York, Sarah Mountbatten - Windsor. _Duchess of. Victoria and Albert: Life at Osborne House._ London: Weidenfield & Nicolson, 1991.
+## Edward VII
 
-Williams, Richard. _1963 - The Contentious Crown: Public Discussion of the British Monarchy in the Reign of Queen Victoria._ Aldershot, England. Brookfield, Vt.: Ashgate, 1997.
+Allfrey, Anthony. *Edward VII and his Jewish Court*. London: Weidenfield & Nicolson, 1991.
 
-Edward VII
-----------
+Aronson, Theo. *The King in Love: Edward VII's Mistress*. London: Murray, 1988.
 
-Allfrey, Anthony. _Edward VII and his Jewish Court_. London: Weidenfield & Nicolson, 1991.
+Bloom, Ursula. *Edward and Victoria*. London: R. Hale, 1977.
 
-Aronson, Theo. _The King in Love: Edward VII's Mistress_. London: Murray, 1988.
+Draper, Alfred. *The Prince of Wales*. London: New English Library, 1975.
 
-Bloom, Ursula. _Edward and Victoria_. London: R. Hale, 1977.
+Hibbert, Christopher. *Edward VII, A Portrait*. London: Allen Lane, 1976.
 
-Draper, Alfred. _The Prince of Wales_. London: New English Library, 1975.
+Judd, Dennis. *Edward VII: A Pictoral Biography*. London: Macdonald and Jane's, 1975.
 
-Hibbert, Christopher. _Edward VII, A Portrait_. London: Allen Lane, 1976.
+Lamont-Brown, Raymond. *Edward VII's Last Loves*. Stroud: Sutton, 1998.
 
-Judd, Dennis. _Edward VII: A Pictoral Biography_. London: Macdonald and Jane's, 1975.
+Magnus, Philip Montefiore, Sir, bart. *King Edward the Seventh*. New York: Dutton, 1964.
 
-Lamont-Brown, Raymond. _Edward VII's Last Loves_. Stroud: Sutton, 1998.
+Pearson, John. *Edward the Rake*. London: Weidenfield & Nicolson, 1975.
 
-Magnus, Philip Montefiore, Sir, bart. _King Edward the Seventh_. New York: Dutton, 1964.
+Plumptre, George. *Edward VII.* London: Pavillion, 1995.
 
-Pearson, John. _Edward the Rake_. London: Weidenfield & Nicolson, 1975.
+*Queen Victoria and British Culture, 1837-1876.* Chicago: University of Chicago Press, 1998.
 
-Plumptre, George. _Edward VII._ London: Pavillion, 1995.
+Roby, Kinley E. *The King, the Press and the People: A Study of Edward VII*. London: Barrie and Jenkins, 1975.
 
-_Queen Victoria and British Culture, 1837-1876._ Chicago: University of Chicago Press, 1998.
+St. Aubyn, Giles. *Edward VII: Prince and King*. London: Collins, 1979.
 
-Roby, Kinley E. _The King, the Press and the People: A Study of Edward VII_. London: Barrie and Jenkins, 1975.
+## Edward VIII and Wallis Simpson
 
-St. Aubyn, Giles. _Edward VII: Prince and King_. London: Collins, 1979.
+Bloch, Michael. *The Duke of Windsor's War*. London: Weidenfield and Nicolson, 1982.
 
-Edward VIII and Wallis Simpson
-------------------------------
+Birmingham, Stephen. *Duchess.* Boston: Little, Brown and Company, 1981.
 
-Bloch, Michael. _The Duke of Windsor's War_. London: Weidenfield and Nicolson, 1982.
+Blackwood, Caroline. *The Last of the Duchess*. New York: Pantheon Books, 1995.
 
-Birmingham, Stephen. _Duchess._ Boston: Little, Brown and Company, 1981.
+Bloch, Michael, ed. *Wallis and Edward: Letters*. New York: Summit Books, 1986.
 
-Blackwood, Caroline. _The Last of the Duchess_. New York: Pantheon Books, 1995.
+Bloch, Michael. *Operation Willi*. Toronto: Random House, 1984.
 
-Bloch, Michael, ed. _Wallis and Edward: Letters_. New York: Summit Books, 1986.
+———. *The Duchess of Windsor*. London: Weidenfield & Nicolson, 1996.
 
-Bloch, Michael. _Operation Willi_. Toronto: Random House, 1984.
+———. *The Reign & Abdication of Edward VIII*. London: Bantam Press, 1990.
 
-———. _The Duchess of Windsor_. London: Weidenfield & Nicolson, 1996.
+———. *The Secret Files of the Duke of Windsor*. London: Bantam Press, 1988.
 
-———. _The Reign & Abdication of Edward VIII_. London: Bantam Press, 1990.
+Bocca, Geoffrey. *The Woman Who Would Be Queen*. New York: Rinehart & Company, Inc., 1954.
 
-———. _The Secret Files of the Duke of Windsor_. London: Bantam Press, 1988.
+Bryan, J. III, and Charles J. V. Murphy. *The Windsor Story*. New York: William Morrow & Company Inc., 1979.
 
-Bocca, Geoffrey. _The Woman Who Would Be Queen_. New York: Rinehart & Company, Inc., 1954.
+Garrett, Richard. *Mrs. Simpson*. New York: St. Martin's Press, 1979.
 
-Bryan, J. III, and Charles J. V. Murphy. _The Windsor Story_. New York: William Morrow & Company Inc., 1979.
+Higham, Charles. *The Duchess of Windsor: The Secret Life*. New York: McGraw - Hill Book Company, 1988.
 
-Garrett, Richard. _Mrs. Simpson_. New York: St. Martin's Press, 1979.
+King, Grey. *The Duchess of Windsor: The Uncommon Life of Wallis Simpson*. New York: Aurum Press, 1999.
 
-Higham, Charles. _The Duchess of Windsor: The Secret Life_. New York: McGraw - Hill Book Company, 1988.
+Mackenzie, Compton. *The Windsor Tapestry*. London: Chatton and Windus, 1952.
 
-King, Grey. _The Duchess of Windsor: The Uncommon Life of Wallis Simpson_. New York: Aurum Press, 1999.
+Martin, Ralph G. *The Woman He Loved*. New York: Simon and Schuster, 1974.
 
-Mackenzie, Compton. _The Windsor Tapestry_. London: Chatton and Windus, 1952.
+McLeod, Kirsty. *Batlle Royal.* London: Constable, 1999.
 
-Martin, Ralph G. _The Woman He Loved_. New York: Simon and Schuster, 1974.
+Menkes, Suzy. *The Windsor Style*. London: Grafton Books, 1987.
 
-McLeod, Kirsty. _Batlle Royal._ London: Constable, 1999.
+Moore, Charles, and Christopher Hawtree, eds. *1936: As Recorded by the Spectator*. London: Michael Joseph, 1986.
 
-Menkes, Suzy. _The Windsor Style_. London: Grafton Books, 1987.
+Mosley, Diana. *The Duchess of Windsor*. New York: Stein and Day, 1981.
 
-Moore, Charles, and Christopher Hawtree, eds. _1936: As Recorded by the Spectator_. London: Michael Joseph, 1986.
+Parker, John. *King of Fools*. London: Macdonald, 1988.
 
-Mosley, Diana. _The Duchess of Windsor_. New York: Stein and Day, 1981.
+Pye, Michael. *The King over the Water*. London: Hutchinson, 1981.
 
-Parker, John. _King of Fools_. London: Macdonald, 1988.
+Thomas, Gwynne. *King Pawn or Black Night?* Edinburgh: Mainstream Publishing, 1995.
 
-Pye, Michael. _The King over the Water_. London: Hutchinson, 1981.
+Thornton, Michael. *Royal Feud*. London: Michael Joseph, 1985.
 
-Thomas, Gwynne. _King Pawn or Black Night?_ Edinburgh: Mainstream Publishing, 1995.
+Ziegler, Phillip. *King Edward VIII*. London: Collins, 1990.
 
-Thornton, Michael. _Royal Feud_. London: Michael Joseph, 1985.
+## George VI
 
-Ziegler, Phillip. _King Edward VIII_. London: Collins, 1990.
+James, Robert Rhodes. *1933 - A spirit Undaunted: The Political Role of George VI.* London: Abacus, 1999, 1998.
 
-George VI
----------
+## Elizabeth II
 
-James, Robert Rhodes. _1933 - A spirit Undaunted: The Political Role of George VI._ London: Abacus, 1999, 1998.
+Green, Robert. *1969 -* *Queen Elizabeth II.* New York: F. Watts, 1997.
 
-Elizabeth II
-------------
+Packard, Jerrold M. *The Queen & Her Court: A Guide to the British Monarchy Today.* New York: Scribner, 1981.
 
-Green, Robert. _1969 -_ _Queen Elizabeth II._ New York: F. Watts, 1997.
+## Next Generation
 
-Packard, Jerrold M. _The Queen & Her Court: A Guide to the British Monarchy Today._ New York: Scribner, 1981.
+Andersen, Christopher P. *Diana's Boys: William and Harry and the Mother They Loved.* Rockland, MA: Wheeler Pub., 2002, 2001.
 
-Next Generation
----------------
+Dougherty, Terri. *Prince William.* San Diego, CA: Lucent Books, 2002.
 
-Andersen, Christopher P. _Diana's Boys: William and Harry and the Mother They Loved._ Rockland, MA: Wheeler Pub., 2002, 2001.
+Harmon, Melissa Burdick. *Diana: The People's Princess.* New York: MetroBooks, 2002.
 
-Dougherty, Terri. _Prince William._ San Diego, CA: Lucent Books, 2002.
+Haseler, Stephen. *1942 -* *The End of the House of Windsor: Birth of a British Republic.* London, New York: I. B. Tauris, 1993.
 
-Harmon, Melissa Burdick. _Diana: The People's Princess._ New York: MetroBooks, 2002.
+Kear, Adrian, and Deborah Lynn Steinberg. *Mourning Diana Nation, Culture and the Performance of Grief.* London, New York: Routledge, 2002 ([Internet Resource](http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=69697)).
 
-Haseler, Stephen. _1942 -_ _The End of the House of Windsor: Birth of a British Republic._ London, New York: I. B. Tauris, 1993.
+King, Jon. Beveridge, John. *Princess Diana*: *The Hidden Evidence: How MI6 and the CIA were Involved in the Death of Princess Diana.* \[New York\]: Northam: SPI, Roundhouse, 2002.
 
-Kear, Adrian, and Deborah Lynn Steinberg. _Mourning Diana Nation, Culture and the Performance of Grief._ London, New York: Routledge, 2002 ([Internet Resource](http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=69697)).
-
-King, Jon. Beveridge, John. _Princess Diana_: _The Hidden Evidence: How MI6 and the CIA were Involved in the Death of Princess Diana._ \[New York\]: Northam: SPI, Roundhouse, 2002.
-
-Thomas, James. _Diana's Mourning: A People's History._ Cardiff: University of Wales Press, 2002.
+Thomas, James. *Diana's Mourning: A People's History.* Cardiff: University of Wales Press, 2002.
