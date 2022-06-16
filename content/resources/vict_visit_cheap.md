@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21h-342-the-royal-family-fall-2003/2c8b3f87b43f550d59e7078bd6bedf5b_vict_visit_cheap.jpg
+file: /courses/21h-342-the-royal-family-fall-2003/2c8b3f87b43f550d59e7078bd6bedf5b_vict_visit_cheap.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
