@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 46ca0f82-73f2-e8ca-bd6a-d6587fbc261b
 ---
@@ -30,18 +34,18 @@ This assignment asks you to examine contemporary royal pageantry and presentatio
 Reading Questions (to consider when writing Response Papers)
 ------------------------------------------------------------
 
-Peter Walton. _A Celebration of Empire._ ([PDF]({{< baseurl >}}/resources/asgmt1))
+Peter Walton. _A Celebration of Empire._ ({{% resource_link 9f1dc243-4ec2-e9bb-2ada-5361949a589e "PDF" %}})
 
-Lytton Strachey. _Queen Victoria._ Chapters 1-6. ([PDF]({{< baseurl >}}/resources/asgmt2))
+Lytton Strachey. _Queen Victoria._ Chapters 1-6. ({{% resource_link 6f1bcb72-8d61-59a3-f0f4-378c54e5a1bc "PDF" %}})
 
-Fanny Burney. _Diary._ Selections. ([PDF]({{< baseurl >}}/resources/asgmt3))
+Fanny Burney. _Diary._ Selections. ({{% resource_link 566bb073-9089-b2c5-c61d-48d4c4af48e7 "PDF" %}})
 
-William Makepeace Thackeray. _The First Four Georges._ (Parts 1 and 2.) ([PDF]({{< baseurl >}}/resources/asgmt4))
+William Makepeace Thackeray. _The First Four Georges._ (Parts 1 and 2.) ({{% resource_link bb845777-748e-d088-4eeb-a91d64d82e10 "PDF" %}})
 
-Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." ([PDF]({{< baseurl >}}/resources/asgmt5))
+Laqueur. "The Queen Caroline Affair: Politics as Art in the Reign of George IV." ({{% resource_link a5b66524-b857-1ce2-3265-c273b7a69859 "PDF" %}})
 
-Cannadine. "The Context, Performance and Meaning of Ritual." ([PDF]({{< baseurl >}}/resources/asgmt6))
+Cannadine. "The Context, Performance and Meaning of Ritual." ({{% resource_link 7afed2db-4b05-3d39-1b9c-b565ed083c2a "PDF" %}})
 
-_A King's Story._ ([PDF]({{< baseurl >}}/resources/asgmt7))
+_A King's Story._ ({{% resource_link 06fa178d-b6a4-e138-6c35-c0ee651385ca "PDF" %}})
 
-_Official Program for King George's Jubilee._ ([PDF]({{< baseurl >}}/resources/asgmt8))
+_Official Program for King George's Jubilee._ ({{% resource_link 623923ed-8025-dea4-0532-b76fbfd0a112 "PDF" %}})
