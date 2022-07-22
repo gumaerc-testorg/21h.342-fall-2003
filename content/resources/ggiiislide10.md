@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: ggiiislide10.jpg
 uid: da7bbd78-bf92-ade0-6e82-c674a52467ac
 ---
 James Gillray. 1787. George III, Queen Charlotte, and the Prince of Wales gorging at the public trough.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ggiiislide13.jpg
 uid: be65c665-192d-8d0b-030f-4afbc00435a1
 ---
 Celebrations in the City on George III's Golden Jubilee.
-

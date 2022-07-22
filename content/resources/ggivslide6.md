@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ggivslide6.jpg
 uid: 937cedf0-5609-c2da-cdea-0bba18149a32
 ---
 Cartoon of George IV and Caroline by Lewis Marks, June 1821.
-
