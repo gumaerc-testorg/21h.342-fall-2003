@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-342-the-royal-family-fall-2003/cfaa6d5767aceba954dd844559267109_vict_in_cty_183.jpg
+file_size: 37825
 file_type: image/jpeg
 image_metadata:
   caption: ''
