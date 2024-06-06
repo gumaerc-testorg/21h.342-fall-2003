@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading Questions (to consider when writing Response Papers)
 file: /courses/21h-342-the-royal-family-fall-2003/9f1dc2434ec2e9bb2ada5361949a589e_asgmt1.pdf
+file_size: 63626
 file_type: application/pdf
 learning_resource_types:
 - Assignments

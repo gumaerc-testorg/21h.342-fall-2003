@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-342-the-royal-family-fall-2003/083141a5466c46191351e0b5fc8f1bcc_guild_hal_int.jpg
+file_size: 64123
 file_type: image/jpeg
 image_metadata:
   caption: ''
