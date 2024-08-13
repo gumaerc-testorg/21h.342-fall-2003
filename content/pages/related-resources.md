@@ -1,12 +1,12 @@
 ---
 content_type: page
 description: This section contains external links.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 252ab84c-70ff-fd21-21d0-f2e6b0ccf100
 ---
-
 Below are sites that provide additional information on topics covered in this course.
 
 [BritPolitics.com: The Monarchy](http://www.royal.gov.uk/output/Page1.asp)
@@ -29,7 +29,7 @@ Below are sites that provide additional information on topics covered in this co
 
 [Official Website of the British Monarchy](http://www.royal.gov.uk/output/Page1.asp)
 
-[Prince Charles' Official Website](http://www.princeofwales.gov.uk/)
+[Official Website of King Charles III](https://www.royal.uk/the-king)
 
 [Royal Geneology Website](http://www.royal-genealogy.com/start.html) 
 
