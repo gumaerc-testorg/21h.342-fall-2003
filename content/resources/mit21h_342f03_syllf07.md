@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about subject description, assignments,
   books, schedule and grading for the course.
-file: /courses/21h-342-the-royal-family-fall-2003/3a11b57eca8726647a96f537855acca7_MIT21H_342f03_syllf07.pdf
+file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/3a11b57eca8726647a96f537855acca7_MIT21H_342f03_syllf07.pdf
 file_size: 35152
 file_type: application/pdf
 learning_resource_types: []

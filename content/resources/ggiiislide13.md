@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Celebrations in the City on George III's Golden Jubilee.
-file: /courses/21h-342-the-royal-family-fall-2003/be65c665192d8d0b030f4afbc00435a1_ggiiislide13.jpg
+file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/be65c665192d8d0b030f4afbc00435a1_ggiiislide13.jpg
 file_size: 51235
 file_type: image/jpeg
 image_metadata:
