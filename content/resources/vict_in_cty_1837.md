@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/ef1c2335059a78fdd30984f1917d81ab_vict_in_cty_1837.jpg
+file: /courses/21h-342-the-royal-family-fall-2003/ef1c2335059a78fdd30984f1917d81ab_vict_in_cty_1837.jpg
 file_size: 49491
 file_type: image/jpeg
 image_metadata:
