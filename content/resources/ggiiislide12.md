@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Buckingham House before it became Buckingham Palace, 1809.
-file: /courses/21h-342-the-royal-family-fall-2003/419b23d03465868df2a9e4075f41546b_ggiiislide12.jpg
+file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/419b23d03465868df2a9e4075f41546b_ggiiislide12.jpg
 file_size: 40364
 file_type: image/jpeg
 image_metadata:
