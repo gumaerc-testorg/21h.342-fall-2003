@@ -2,7 +2,7 @@
 content_type: resource
 description: James Gillray. 1787. George III, Queen Charlotte, and the Prince of Wales
   gorging at the public trough.
-file: /courses/21h-342-the-royal-family-fall-2003/da7bbd78bf92ade06e82c674a52467ac_ggiiislide10.jpg
+file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/da7bbd78bf92ade06e82c674a52467ac_ggiiislide10.jpg
 file_size: 48133
 file_type: image/jpeg
 image_metadata:

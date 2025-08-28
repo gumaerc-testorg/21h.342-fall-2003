@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-342-the-royal-family-fall-2003/84e82b0356181b94d7c8ea37f433ac16_vict_buckn_ham.jpg
+file: /ol-ocw-studio-app/courses/21h-342-the-royal-family-fall-2003/84e82b0356181b94d7c8ea37f433ac16_vict_buckn_ham.jpg
 file_size: 38504
 file_type: image/jpeg
 image_metadata:
