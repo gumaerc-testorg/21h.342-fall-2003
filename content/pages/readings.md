@@ -576,7 +576,7 @@ Harmon, Melissa Burdick. *Diana: The People's Princess.* New York: MetroBooks, 2
 
 Haseler, Stephen. *1942 -* *The End of the House of Windsor: Birth of a British Republic.* London, New York: I. B. Tauris, 1993.
 
-Kear, Adrian, and Deborah Lynn Steinberg. *Mourning Diana Nation, Culture and the Performance of Grief.* London, New York: Routledge, 2002 ([Internet Resource](http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=69697)).
+Kear, Adrian, and Deborah Lynn Steinberg. *Mourning Diana Nation, Culture and the Performance of Grief.* London, New York: Routledge, 2002 ({{% resource_link "8b964cea-4893-4462-ac35-7e2b4e00241e" "Internet Resource" %}}).
 
 King, Jon. Beveridge, John. *Princess Diana*: *The Hidden Evidence: How MI6 and the CIA were Involved in the Death of Princess Diana.* \[New York\]: Northam: SPI, Roundhouse, 2002.
 
